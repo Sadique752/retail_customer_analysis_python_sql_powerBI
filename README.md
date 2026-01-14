@@ -32,7 +32,7 @@ This project analyzes retail customer purchasing behavior to uncover trends, top
 - Interactive Power BI Dashboard
 
 ## 📈 Power BI Dashboard
-![Dashboard](<img width="1291" height="739" alt="image" src="https://github.com/user-attachments/assets/130cbbc0-6b2f-4a65-a6cb-3e609af8b5a2"/>)
+![Dashboard]<img width="1291" height="739" alt="image" src="https://github.com/user-attachments/assets/130cbbc0-6b2f-4a65-a6cb-3e609af8b5a2"/>
 
 ## 🚀 Key Insights
 - Young Adult created more REVENUE
